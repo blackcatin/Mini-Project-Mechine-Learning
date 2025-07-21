@@ -61,7 +61,7 @@ Kode ini disusun dalam format Jupyter Notebook (`.ipynb`) dan mencakup bagian-ba
 
 ## Hasil dan Analisis
 
-Setelah pelatihan, model akan menghasilkan akurasi validasi sekitar **78.95%** dan *loss* validasi sekitar **0.5898** pada dataset yang diberikan (18 gambar pelatihan, 19 gambar validasi). Grafik *loss* akan menunjukkan penurunan *loss* pelatihan, dan *loss* validasi yang relatif stabil, meskipun fluktuatif karena ukuran dataset yang sangat kecil. Model menunjukkan kemampuan belajar dasar dalam membedakan ekspresi "Happy" dan "Sad" melalui *transfer learning*.
+Setelah pelatihan, model akan menghasilkan akurasi validasi sekitar 80.94% dan loss validasi sekitar 0,4226. Ini dicapai pada dataset yang substansial, terdiri dari 12102 gambar pelatihan dan 2964 gambar validasi. Grafik loss menunjukkan penurunan loss pelatihan yang konsisten, sementara loss validasi menunjukkan pola penurunan yang relatif stabil dan konvergen. Meskipun mungkin ada sedikit fluktuasi yang normal selama pelatihan, kinerja model ini mencerminkan kemampuan belajar yang baik dari dataset yang memadai. Akurasi di atas 80% menunjukkan bahwa model telah berhasil mempelajari fitur-fitur penting untuk membedakan ekspresi "Happy" dan "Sad" melalui transfer learning, memberikan hasil yang kuat dan dapat diandalkan untuk proyek ini.
 
 ## Kontributor
 
