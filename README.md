@@ -44,8 +44,8 @@ Kode ini disusun dalam format Jupyter Notebook (`.ipynb`) dan mencakup bagian-ba
 
 3.  **Siapkan Dataset**
 
-      * Unduh dataset `face-expression-happy-sad` dari Kaggle atau siapkan dataset Anda sendiri dengan struktur folder `train/happy`, `train/sad`, `validation/happy`, dan `validation/sad`.
-      * Jika Anda menggunakan dataset Kaggle, tambahkan dataset tersebut ke *notebook* Anda. Pastikan `dataset_path` dalam kode Anda menunjuk ke lokasi yang benar di Kaggle (misalnya: `/kaggle/input/face-expression-happy-sad/Face Expression`).
+      * Unduh dataset `face-expression-recognition-dataset` dari Kaggle atau siapkan dataset Anda sendiri dengan struktur folder `train/happy`, `train/sad`, `validation/happy`, dan `validation/sad`.
+      * Jika Anda menggunakan dataset Kaggle, tambahkan dataset tersebut ke *notebook* Anda. Pastikan `dataset_path` dalam kode Anda menunjuk ke lokasi yang benar di Kaggle (misalnya: `/kaggle/input/face-expression-recognition-dataset`).
 
 4.  **Jalankan Jupyter Notebook**
 
